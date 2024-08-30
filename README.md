@@ -1,12 +1,11 @@
 
 ### Hi there 👋
-I'm a student of Crimean University. Currently learning C++, Python and German. I know Russian <sub>(native)</sub> and English <sub>(intermediate)</sub>.
+I'm a developer from Russia, my strongest language is Python. Currently working as system administrator. I speak Russian and English freely.
 
-### ✍️ Write me
+### ✍️ Message me
 - Join me on Mastodon! <a rel="me" href="https://meow.social/@affir">Mastodon</a>
 - I'm on Telegram. [@affirvega](https://t.me/affirvega)
-- Here's my Matrix: @affir:converser.eu
-- I have a site! [feskow.coolnight.one](https://feskow.coolnight.one/)
+- Personal site is in progress
 
 ### Other info
 - 😄 Pronouns: He/Him
